@@ -1,6 +1,6 @@
 # web-scraping_api-restful-python :computer: :electric_plug: :battery:
 
-# Em contrução :right_anger_bubble: :thought_balloon: :octocat: :mortar_board
+# Em contrução :right_anger_bubble: :thought_balloon: :octocat: :mortar_board:
 
 ## Introdução
 
