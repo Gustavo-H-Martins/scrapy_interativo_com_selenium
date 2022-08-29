@@ -4,8 +4,7 @@ from itertools import product
 import motor.motorasyncio
 
 
-MONGO_DETAILS = "mongodb+srv://admin:admin@offgustavo.rrosmdt.mongodb.net/?retryWrites=true&w=majority"
-#"mongodb://localhost:27017"
+MONGO_DETAILS = "mongodb://localhost:27017"
 
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
 
